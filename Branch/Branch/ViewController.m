@@ -17,11 +17,18 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
+    NSLog(@"test 在分支的测试");
+=======
     NSLog(@"github客户端的使用");
+<<<<<<< HEAD
     UIButton *butn = [[UIButton alloc]init];
     CGRect cs = [UIScreen mainScreen].bounds;
     NSLog(@"change name");
 
+=======
+>>>>>>> master
+>>>>>>> test
 }
 
 - (void)didReceiveMemoryWarning {
