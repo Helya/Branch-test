@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"master的第二次修改");
+    NSLog(@"github客户端的使用");
 }
 
 - (void)didReceiveMemoryWarning {
