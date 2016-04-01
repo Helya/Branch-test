@@ -17,7 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
     NSLog(@"test 在分支的测试");
+=======
+    NSLog(@"github客户端的使用");
+>>>>>>> master
 }
 
 - (void)didReceiveMemoryWarning {
