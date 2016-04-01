@@ -18,6 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"github客户端的使用");
+    UIButton *butn = [[UIButton alloc]init];
+    CGRect cs = [UIScreen mainScreen].bounds;
+
 }
 
 - (void)didReceiveMemoryWarning {
