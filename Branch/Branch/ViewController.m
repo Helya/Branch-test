@@ -20,6 +20,7 @@
     NSLog(@"github客户端的使用");
     UIButton *butn = [[UIButton alloc]init];
     CGRect cs = [UIScreen mainScreen].bounds;
+    NSLog(@"change name");
 
 }
 
